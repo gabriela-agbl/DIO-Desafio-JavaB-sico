@@ -1,12 +1,12 @@
-# Desafio Java Básico - Digital Innovation One (DIO)
+# 🐱‍💻 Desafio Java Básico - Digital Innovation One (DIO)
 
 Este repositório foi criado como parte do desafio de Java básico proposto pela [Digital Innovation One](https://www.dio.me/).
 
-## Objetivo
+## 🎯 Objetivo
 
 O objetivo deste desafio é praticar os conceitos básicos de Java aprendidos no curso da DIO, implementando uma aplicação simples para consolidar os conhecimentos adquiridos.
 
-## Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 - Linguagem de programação: **Java** (versão 8 ou superior)
 
@@ -38,7 +38,7 @@ O objetivo deste desafio é praticar os conceitos básicos de Java aprendidos no
      java ContaTerminal
      ```
      
-## Como Contribuir
+## 🤝 Como Contribuir
 
 1. Faça um fork deste repositório.
 2. Crie uma branch para sua feature: `git checkout -b minha-feature`
@@ -46,7 +46,7 @@ O objetivo deste desafio é praticar os conceitos básicos de Java aprendidos no
 4. Envie para o repositório remoto: `git push origin minha-feature`
 5. Abra um Pull Request.
 
-## Licença
+## 📜 Licença
    Este projeto foi desenvolvido para fins educacionais e está disponível para uso e modificação conforme necessário.
 
    Feito por [Gabriela Rodrigues](https://github.com/Agbl09)
