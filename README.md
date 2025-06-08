@@ -17,7 +17,7 @@ O objetivo deste desafio é praticar os conceitos básicos de Java aprendidos no
 - Linguagem de programação: **Java** (versão 8 ou superior)
 
 <div align="center">
-<h2>Funcionalidades Implementadas</h2>
+<h2>📌 Funcionalidades Implementadas</h2>
 </div>
 
 1. **Exemplos de Sintaxe Java:**
@@ -27,7 +27,7 @@ O objetivo deste desafio é praticar os conceitos básicos de Java aprendidos no
    - Manipulação de entrada e saída
 
 <div align="center">
-<h2>Como Executar o Projeto</h2>
+<h2>💻 Como Executar o Projeto</h2>
 </div>
 
 1. **Clone o repositório**:
