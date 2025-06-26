@@ -62,6 +62,6 @@ O objetivo deste desafio é praticar os conceitos básicos de Java aprendidos no
 <h2>📜 Licença</h2>
    Este projeto foi desenvolvido para fins educacionais e está disponível para uso e modificação conforme necessário.
 
-   Feito por [Gabriela Rodrigues](https://github.com/Agbl09)
+   Feito por [Gabriela Rodrigues](https://github.com/gabriela-agbl)
    
 </div>
