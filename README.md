@@ -33,7 +33,7 @@ O objetivo deste desafio é praticar os conceitos básicos de Java aprendidos no
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/Agbl09/DIO-Desafio-JavaB-sico.git
+   git clone https://github.com/gabriela-agbl/DIO-Desafio-JavaB-sico.git
    ```
 
 2. **Abra o projeto em uma IDE de sua escolha**.
